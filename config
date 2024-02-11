@@ -1,2 +1,0 @@
-[diff "zip"]
-    textconv = unzip -c -a
