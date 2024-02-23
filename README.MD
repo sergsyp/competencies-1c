@@ -21,6 +21,7 @@
 - Программист 1С в г.Минске. [Компетенции Junior Middle Senior для программиста 1C](https://koder.by/programmer_1s_junior_middle_senior.php)
 - Матвей Серёгин. [Какие навыки нужны разработчику 1С в 2023 году](https://www.youtube.com/watch?v=MzCjrlI0JnY)
 - 1С: Учебный центр № 1. [Схема изучения 1С](https://uc1.1c.ru/poster/)
-- ![Матрица компетенций специалиста 1С (статья на Инфостарте)](https://infostart.ru/1c/articles/2045050/)
-  ![Инфостарт](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
+- [Матрица компетенций специалиста 1С (статья на Инфостарте)](https://infostart.ru/1c/articles/2045050/)
+
+![Инфостарт](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
 
