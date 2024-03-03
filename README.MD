@@ -14,6 +14,19 @@
 Дорабатывать следует [файл](../main/МатрицаКомпетенцией1С.md) в формате markdown.
 После мерджа, силами ментейнеров, он будет сконвертирован и обновлен [файл](../main/МатрицаКомпетенцией1С.xlsx) в формате xlsx.
 
+## Статья по текущей матрице
+
+- [Телеграм](https://t.me/sergsyp/99)
+- [Дзен](https://dzen.ru/a/ZczQ1_2m3y73ewO3)
+- [Ютуб](https://youtu.be/MI3PFR80uDw)
+- [Рутуб](https://rutube.ru/video/fac5af8bb2728aaa9c7369a86ecc2cec/)
+- [Яндекс.Музыка](https://music.yandex.ru/album/27600967/track/122798155)
+- [Инфостарт](https://infostart.ru/1c/articles/2045050/)
+
+![Инфостарт](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
+
+
+
 ## Ссылки на другие матрицы
 
 - Виталий Онянов. [От стажера до эксперта: матрица компетенций разработчика 1С](https://infostart.ru/pm/1519122/)
@@ -21,7 +34,3 @@
 - Программист 1С в г.Минске. [Компетенции Junior Middle Senior для программиста 1C](https://koder.by/programmer_1s_junior_middle_senior.php)
 - Матвей Серёгин. [Какие навыки нужны разработчику 1С в 2023 году](https://www.youtube.com/watch?v=MzCjrlI0JnY)
 - 1С: Учебный центр № 1. [Схема изучения 1С](https://uc1.1c.ru/poster/)
-- [Матрица компетенций специалиста 1С (статья на Инфостарте)](https://infostart.ru/1c/articles/2045050/)
-
-![Инфостарт](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
-
